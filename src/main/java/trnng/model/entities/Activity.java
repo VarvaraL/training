@@ -18,6 +18,4 @@ public class Activity {
 
     @Column(name = "catalog_code", columnDefinition = "AGREED")
     private UUID catalogId;
-
-    private String uselessData;
 }
